@@ -28,4 +28,11 @@ The [Project](https://github.com/sowmi06/Feature-Extraction-and-classification-u
 - [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
 
 
+## Operating Instructions
+
+The following are the steps to replicate the exact results acquired from the project:
+
+- Satisify all the system and the tool, libraries requirements.
+- Clone the [Feature-Extraction and classification using Places365 weights on Sun397 dataset](https://github.com/sowmi06/Feature-Extraction-and-classification-using-Places365-weights-on-Sun397-dataset-.git) repository into your local machine. 
+- The [Datapreprocessing.py](https://github.com/sowmi06/Feature-Extraction-and-classification-using-Places365-weights-on-Sun397-dataset-/blob/main/Datapreprocessing.py) has the code for the preprocessing steps and the [Sun397.py] has the final classifiaction output.
 
